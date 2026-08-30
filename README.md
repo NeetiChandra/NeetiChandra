@@ -25,16 +25,16 @@ My approach combines hypothesis-led thinking, measurement-first design, and feas
 #### Featured builds
 
 **[AI Adoption Scorecard](https://github.com/NeetiChandra/ai-adoption-scorecard)**
-Turns AI-rollout usage logs into board-ready metrics — adoption rate, hours saved, satisfaction, department-level gaps — plus an auto-generated executive narrative. Python · fully tested, zero external dependencies to render.
+Turns AI-rollout usage logs into board-ready metrics - adoption rate, hours saved, satisfaction, department-level gaps - plus an auto-generated executive narrative. Python · fully tested, zero external dependencies to render.
 
 **[Executive Decision Brief Generator](https://github.com/NeetiChandra/exec-decision-brief)**
 Turns unstructured inputs (financials, stakeholder feedback, contracts, compliance reviews) into a one-page decision memo with a recommendation, risk list, and an honest confidence score — the recommendation is computed deterministically, the LLM only writes the prose. Claude API, RAG-style synthesis, Python.
 
 **[AI Tool Evaluation & Governance Rubric](https://github.com/NeetiChandra/ai-tool-governance-rubric)**
-A weighted scoring framework for comparing AI vendor tools on use-case fit, cost, and governance — grounded in the NIST AI RMF's four functions — where a failed compliance gate overrides the ranking, not just flags it. Python.
+A weighted scoring framework for comparing AI vendor tools on use-case fit, cost, and governance - grounded in the NIST AI RMF's four functions - where a failed compliance gate overrides the ranking, not just flags it. Python.
 
 **[PolicyBot](https://github.com/NeetiChandra/policybot)**
-A retrieval-augmented chatbot answering HR policy questions from source documents — applying the same build-and-adopt pattern outside a research context. Python, RAG.
+A retrieval-augmented chatbot answering HR policy questions from source documents - applying the same build-and-adopt pattern outside a research context. Python, RAG.
 
 ---
 
