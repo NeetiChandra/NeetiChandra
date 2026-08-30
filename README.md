@@ -1,4 +1,4 @@
-### Hi, I'm Neeti — AI Strategy + Value + Delivery
+### Hi, I'm Neeti - AI Strategy + Value + Delivery
 
 I help organizations find high-value AI opportunities, turn them into shipped solutions, and prove the business value — end to end, not just the strategy deck or just the delivery.
 
