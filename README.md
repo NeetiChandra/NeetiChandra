@@ -1,19 +1,18 @@
-### Hi, I'm Neeti - AI Strategy + Value + Delivery
+### Hi, I'm Neeti - Decision Intelligence | AI Strategy | Program Leader
 
-I help organizations find high-value AI opportunities, turn them into shipped solutions, and prove the business value — end to end, not just the strategy deck or just the delivery.
+14+ years leading research, decision intelligence, and AI/data programme delivery for Fortune 500 clients (ex-Gartner, ex-Kantar Japan) - including research initiatives on digital transformation. My approach: measurement built in before you build anything, feasibility checked before you fall for a solution.
 
-17+ years leading research and insights for Fortune 500 clients (ex-Gartner, ex-Kantar Japan), with hands-on GenAI product builds shipped into live enterprise workflows.
+This GitHub reflects how I think and work: exploring ideas, building, testing, and translating AI concepts into practical approaches.
 
-**PRINCE2 Agile PM · MBA (Business Economics)**
+#### A Research-Driven Approach to AI
 
----
+My approach combines hypothesis-led thinking, measurement-first design, and feasibility analysis—bringing research-grade rigor to AI strategy and increasing the likelihood that AI initiatives translate into measurable business impact.
 
-#### What I actually do
-
-- **Find the opportunity** — identify where AI actually moves a business metric, not just where it's trendy
-- **Make the case** — translate that opportunity into a roadmap a CIO/CEO will fund and act on
-- **Build it** — scope and build AI tools/agents end-to-end, not just advise on them
-- **Prove it worked** — measure and report adoption and business value, not just ship and hope
+Problem before technology - Define the business problem and decision first.
+Hypothesis-led design - Frame use cases around clear hypotheses and value drivers.
+Measurement-first - Define success metrics and measurement frameworks upfront.
+Feasibility before scale - Assess data, technology, operating model and adoption feasibility early.
+Test, validate, iterate - Validate AI performance and business impact before scaling.
 
 ---
 
