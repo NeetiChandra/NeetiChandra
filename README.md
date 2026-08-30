@@ -1,6 +1,8 @@
 ### Hi, I'm Neeti - Decision Intelligence | AI Strategy | Program Leader
 
-14+ years leading research, decision intelligence, and AI/data programme delivery for Fortune 500 clients (ex-Gartner, ex-Kantar Japan) - including research initiatives on digital transformation. My approach: measurement built in before you build anything, feasibility checked before you fall for a solution.
+I bring research-led thinking to AI and data—combining hypothesis-led problem framing, measurement-first thinking, and feasibility analysis to explore how emerging technologies can create meaningful business value.
+
+My approach draws on 14+ years across research, insights, data, and program leadership, with a focus on connecting business problems, evidence, technology, and outcomes.
 
 This GitHub reflects how I think and work: exploring ideas, building, testing, and translating AI concepts into practical approaches.
 
@@ -8,11 +10,11 @@ This GitHub reflects how I think and work: exploring ideas, building, testing, a
 
 My approach combines hypothesis-led thinking, measurement-first design, and feasibility analysis—bringing research-grade rigor to AI strategy and increasing the likelihood that AI initiatives translate into measurable business impact.
 
-Problem before technology - Define the business problem and decision first.
-Hypothesis-led design - Frame use cases around clear hypotheses and value drivers.
-Measurement-first - Define success metrics and measurement frameworks upfront.
-Feasibility before scale - Assess data, technology, operating model and adoption feasibility early.
-Test, validate, iterate - Validate AI performance and business impact before scaling.
+**Problem before technology** - Define the business problem and decision first.
+**Hypothesis-led design** - Frame use cases around clear hypotheses and value drivers.
+**Measurement-first** - Define success metrics and measurement frameworks upfront.
+**Feasibility before scale** - Assess data, technology, operating model and adoption feasibility early.
+**Test, validate, iterate** - Validate AI performance and business impact before scaling.
 
 ---
 
