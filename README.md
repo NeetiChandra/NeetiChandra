@@ -1,6 +1,6 @@
-### Hi, I'm Neeti - Decision Intelligence | AI Strategy | Program Leader
+### Hi, I'm Neeti - Decision Intelligence | AI Strategy 
 
-I bring research-led thinking to AI and data-combining hypothesis-led problem framing, measurement-first thinking, and feasibility analysis to explore how emerging technologies can create meaningful business value.
+I bring research-led thinking to AI Strategy and Digital Transformation with measurement-first thinking, and feasibility analysis to explore how emerging technologies can create meaningful business value.
 
 My approach draws on 14+ years across research, insights, data, and program leadership, with a focus on connecting business problems, evidence, technology, and outcomes.
 
