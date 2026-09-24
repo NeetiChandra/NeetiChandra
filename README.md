@@ -1,6 +1,6 @@
 ### Hi, I'm Neeti - Decision Intelligence | AI Strategy
 
-I bring research-led thinking to AI Strategy and Digital Transformation with measurement-first thinking, and feasibility analysis to explore how emerging technologies can create meaningful business value.
+I bring research-grade rigor to AI Strategy and Digital Transformation with hypothesis led approach, measurement-first thinking, and feasibility analysis to explore how emerging technologies can create meaningful business value.
 
 My approach draws on 14+ years across research, insights, data, and program leadership, with a focus on connecting business problems, evidence, technology, and outcomes.
 
